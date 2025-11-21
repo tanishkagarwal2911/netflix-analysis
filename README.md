@@ -18,6 +18,3 @@ A data analysis project exploring Netflix Movies & TV Shows using Python, Pandas
 - Movies vs TV Shows distribution
 - Top producing countries (US, UK, etc.)
 - Growth of titles added by year
-
-## Resume bullet (copy for your CV)
-- Performed exploratory data analysis on Netflix dataset using Pandas and Matplotlib; visualized content distribution by type and top producing countries; created a cleaned sample dataset and actionable insights.
