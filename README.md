@@ -1,6 +1,8 @@
 # Netflix Analysis
 
 A data analysis project exploring Netflix Movies & TV Shows using Python, Pandas, and Matplotlib.
+Here is the plot of the data:
+![Netflix Plot](netflix_plot.png)
 
 ## Contents
 - netflix_analysis.ipynb — Jupyter/Colab notebook with code, visualizations and insights.
